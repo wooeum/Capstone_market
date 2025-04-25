@@ -1,0 +1,21 @@
+.home-container {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background: linear-gradient(to bottom right, #eff6ff, #8a8a8a); */
+  background-color: #cecdcd;
+  border-radius: 1.5rem;
+}
+
+.login-button {
+  margin-top: 2rem;
+}
+
+.Button {
+  background-color: rgb(236, 236, 236);
+  cursor: pointer;
+  border: none;
+  border-radius: 1.5rem;
+}
